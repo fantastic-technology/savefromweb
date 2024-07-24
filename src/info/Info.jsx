@@ -16,9 +16,9 @@ const Info = () => {
         </div>
       <div className='flex items-center justify-center'>
       <p className='text-[15px] w-[80vw]'>
-       At SaveFromWeb, our aim is to offer a YouTube video downloader that merges user-friendliness with high efficiency.
-         Whether you're on a PC or a mobile device, our tool is ideal for downloading videos
-          for offline viewing. We guarantee a seamless download experience every time.
+      SaveFrom Web is an online service that allows users to download videos from YouTube and other social media platforms.
+       By entering the video URL, users can quickly save content to their devices. The platform supports
+       various formats and resolutions, offering a simple and convenient solution for offline video access.
        </p>
       </div>
       <div className='flex items-center justify-center flex-col gap-[20px] p-[20px]'>
